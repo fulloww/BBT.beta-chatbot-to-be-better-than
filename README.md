@@ -32,3 +32,5 @@ LICENSE DO NOT DISTRIBUTE OTHER THAN THE DEVELOPMENT FOR PERSONAL USE ONLY
    #limitations under the License.
 #Join Us
 #Source AI
+
+support me in https://saweria.co/atarrizqi
